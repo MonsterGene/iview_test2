@@ -35,5 +35,8 @@
     "vue-template-compiler": "^2.5.16",
     "webpack": "^3.10.0",
     "webpack-dev-server": "^2.11.2"
+  },
+  "devDependencies": {
+    "babel-preset-stage-2": "^6.24.1"
   }
 }
